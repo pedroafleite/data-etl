@@ -1,0 +1,5 @@
+root
+ |-- cnpj: string (nullable = true)
+ |-- gtin: string (nullable = true)
+ |-- category: string (nullable = true)
+ 

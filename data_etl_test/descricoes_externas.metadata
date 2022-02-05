@@ -1,0 +1,6 @@
+root
+ |-- id: string (nullable = true)
+ |-- gtin: string (nullable = true)
+ |-- description: string (nullable = true)
+ |-- flag_infoprice: string (nullable = true)
+ 
